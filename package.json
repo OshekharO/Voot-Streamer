@@ -1,0 +1,19 @@
+{
+  "name": "VOOT Online Streamer",
+  "version": "1.0.0",
+  "description": "The Online VOOT Player and Downloader with Select and Free Content With All Facality and Customizable Player ",
+  "main": "index.js",
+  "root": "public",
+  "error_page": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OshekharO/Voot-Streamer.git"
+  },
+  "keywords": ["voot", "streamer", "voot player", "voot select", "OshekharO", "hls player", "voot online player", "voot downloader"],
+  "author": "Saksham Shekher",
+  "license": "Custom Lisence",
+  "bugs": {
+    "url": "https://github.com/OshekharO/Voot-Streamer/issues"
+  },
+  "homepage": "https://github.com/OshekharO/Voot-Streamer"
+}
