@@ -19,12 +19,12 @@ async function handleRequest(request) {
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a VOOT Online Select streamer with all features">
     <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="copyright" content="This Is Created by Saksham Shekher">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://chatecrew.live/swarup/img/favicon.png">
 
-  <title>Avi Patil | VOOT Online Player and Downloader !!</title>
+  <title>OshekharO | VOOT Online Player and Downloader !!</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/vstyle.css">
@@ -42,7 +42,7 @@ body{ background-color:#202020;}
   
 <br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Balsamiq Sans', cursive; font-size: 17px;">👇 Enter Your VOOT URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
-  <div><form method="get"  action="https://voot.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="/" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter VOOT URL or VIDEO ID" autocomplete="off">
@@ -58,7 +58,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="/">© 2023 Saksham Shekher</a></span>
             </div>
         </footer>
 </body>
@@ -94,13 +94,13 @@ Stream
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a VOOT Online Select streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Saksham Shekher">
+    <meta name="copyright" content="This Created by Saksham Shekher">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://chatecrew.live/swarup/img/favicon.png">
 
-  <title>Not Found | Avi Patil | VOOT Online Player and Downloader !!</title>
+  <title>Not Found | OshekharO | VOOT Online Player and Downloader !!</title>
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/vstyle.css">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/v1style.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -120,7 +120,7 @@ body{ background-color:#202020;}
 
 <br><br><br>
 
-  <div><form method="get"  action="https://voot.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="/" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter VOOT URL or VIDEO ID" autocomplete="off">
@@ -149,7 +149,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/Voot_Streamer/"
+                    "Made-By": "https://github.com/OshekharO/Voot-Streamer"
             })
         })
 
@@ -177,11 +177,11 @@ async function template(title, img, vurl, vID, desc) {
     return `<html>
 
 <head>
-  <title>${title} | Avishkar Patil</title>
+  <title>${title} | OshekharO</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <link rel="shortcut icon" type="image/x-icon" href="https://telegra.ph/file/22da4d29204c748a526a4.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/100/000000/external-live-radio-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png">
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
   <link href="https://fonts.googleapis.com/css?family=Poppins|Quattrocento+Sans" rel="stylesheet"/>
   <script src="https://cdn.plyr.io/3.6.3/plyr.js"></script>
@@ -277,7 +277,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/22da4d29204c748a526a4.png') no-repeat;
+        background: url('https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/100/000000/external-live-radio-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png') no-repeat;
         background-size: 35px auto, auto;
     }
 
@@ -286,14 +286,13 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
+    <span class="loading-text-words">S</span>
     <span class="loading-text-words">A</span>
-    <span class="loading-text-words">V</span>
-    <span class="loading-text-words">I</span>
+    <span class="loading-text-words">K</span>
     <span class="loading-text-words">S</span>
     <span class="loading-text-words">H</span>
-    <span class="loading-text-words">K</span>
     <span class="loading-text-words">A</span>
-    <span class="loading-text-words">R</span>
+    <span class="loading-text-words">M</span>
 </div>
 </div>
 
