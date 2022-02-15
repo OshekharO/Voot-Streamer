@@ -4,9 +4,9 @@
   ⚒ It can Stream The VOOT Movies , TV Shows and Series All content <br />
   In Online HLS Player !!
 </p>
-<br />
+
 <h3 align="center">Use This : </h3>
-<br />
+
 <h2>Features :</h2>
 
 ‣ Online HLS Player With all Features <br />
@@ -25,8 +25,6 @@
   <br />
   ‣ Then CLick On The STREAM and Enjoy !! <br />
 </h4>
-
-<br/>
 
 <h2>Where To Host :</h2>
 
